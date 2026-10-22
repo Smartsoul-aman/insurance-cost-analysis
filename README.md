@@ -113,8 +113,8 @@ This project focuses on exploratory and descriptive analysis. Relationships obse
 
 **YOUR NAME**
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- GitHub: [@Smartsoul-aman]([https://github.com/YOUR-USERNAME](https://github.com/Smartsoul-aman))
+- LinkedIn: [aman-kumar-praharaj]([https://www.linkedin.com/](https://www.linkedin.com/in/aman-kumar-praharaj-35477b239/?isSelfProfile=true))
 
 ---
 
