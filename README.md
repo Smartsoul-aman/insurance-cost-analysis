@@ -111,7 +111,7 @@ This project focuses on exploratory and descriptive analysis. Relationships obse
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**AMAN KUMAR PRAHARAJ**
 
 - GitHub: [@Smartsoul-aman]([https://github.com/YOUR-USERNAME](https://github.com/Smartsoul-aman))
 - LinkedIn: [aman-kumar-praharaj]([https://www.linkedin.com/](https://www.linkedin.com/in/aman-kumar-praharaj-35477b239/?isSelfProfile=true))
